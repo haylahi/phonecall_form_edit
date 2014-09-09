@@ -18,7 +18,7 @@
 
 {
     "name": "Phonecall Form Edit",
-    "version": "1.1",
+    "version": "2.0",
     "category": "Customer Relationship Management",
     "summary": "Edit phonecalls with form by default",
     "description":
